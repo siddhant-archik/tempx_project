@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "92306149337",
+    "project_id": "tempx-e3b4e",
+    "storage_bucket": "tempx-e3b4e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:92306149337:android:08ef7bb579e1d8e91793c8",
+        "android_client_info": {
+          "package_name": "com.example.tempx_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "92306149337-bbd9gatp2f74u4vgfgmvncgisiu507m2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEDFJbnQTYUl90LIXCVBTjq_pDnshCXwA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "92306149337-bbd9gatp2f74u4vgfgmvncgisiu507m2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
